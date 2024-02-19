@@ -1,3 +1,6 @@
+#This code is just a test on how converting a data to sound works.
+#In this case this is text to speech bcs first I want a version that works based on chatting with a bot.
+
 from gtts import gTTS
 import speech_recognition as sr
 import os
